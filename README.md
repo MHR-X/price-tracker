@@ -53,7 +53,7 @@ pip install customtkinter requests beautifulsoup4 plyer
 
 ### 2. تشغيل الأداة
 ```bash
-python price_tracker.py
+python main.py
 ```
 
 ---
@@ -169,7 +169,8 @@ Thread منفصل يراقب في الخلفية
 
 ## 👨‍💻 المطور
 
-مبنية بـ ❤️ باستخدام Python  
+مبنية بـ ❤️ باستخدام Python 
+**mohamedheroo**
 **py.builds**
 
 ---
