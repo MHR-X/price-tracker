@@ -169,10 +169,9 @@ Thread منفصل يراقب في الخلفية
 
 ## 👨‍💻 المطور
 
-مبنية بـ ❤️ باستخدام Python 
-**mohamedheroo**
+مبنية بـ ❤️ باستخدام Python
 **py.builds**
-
+**mohamedheroo**
 ---
 
 ## 📄 الرخصة
